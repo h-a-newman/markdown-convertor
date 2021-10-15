@@ -1,8 +1,8 @@
 # readme
 
-**Author:** Herschell A. Newman
-**Date:** 2021-10-15
-**Version:** 1.0.0
+**Author:** Herschell A. Newman  
+**Date:** 2021-10-15  
+**Version:** 1.0.0  
 
 ## Purpose
 
